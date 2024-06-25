@@ -1,0 +1,10 @@
+# Evidence Based Delphi Engineering    
+
+My slides from Delphi Summit Amsterdam 2024
+
+[![Evidince Based Delphi Engineering](https://github.com/jimmckeeth/Evidence-Based-Software-Engineering/assets/821930/ad88d9c0-ea0f-4964-8276-510ba09ab3d3)](https://github.com/jimmckeeth/Evidence-Based-Software-Engineering/blob/main/DelphiSummit2024/Evidence-Based%20Delphi%20Engineering.pdf)
+
+Links to my demos:
+* [FizzBuzz Enterprise Edition (Delphi)](https://github.com/jimmckeeth/FizzBuzzEnterpriseEdition-Delphi)
+* [QueryFieldAccessors    
+![QueryFieldAccessors](https://private-user-images.githubusercontent.com/821930/342427933-4b4d9af4-aeff-40fb-9445-6e3d7fb16f31.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTkyOTk3MzcsIm5iZiI6MTcxOTI5OTQzNywicGF0aCI6Ii84MjE5MzAvMzQyNDI3OTMzLTRiNGQ5YWY0LWFlZmYtNDBmYi05NDQ1LTZlM2Q3ZmIxNmYzMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYyNVQwNzEwMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NWEwM2IzYWQzZGZiNGU4NmZjOGYzYzI3MGEwMDljNjhhOWFmYTU3ZjlmNmJjNWI0YTU3ZDFmN2IyMDVlOThiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.zBANdCrcq41B4LpuXLfxGrg9q-rGMf4rP7C_4YhnmUo)](https://github.com/jimmckeeth/QueryFieldAccessors)
