@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 822.98 483.94">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #7030a0;
+        stroke-dasharray: 0 0 8 6;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 8;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-5 {
+        font-family: SegoeUIVariable, 'Segoe UI Variable';
+        font-size: 12px;
+        font-variation-settings: 'wght' 400, 'opsz' 10;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #e97132;
+      }
+
+      .cls-7 {
+        fill: #10345c;
+      }
+
+      .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-6, .cls-12 {
+        isolation: isolate;
+      }
+
+      .cls-7, .cls-10 {
+        font-size: 16px;
+      }
+
+      .cls-7, .cls-11, .cls-12 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-8 {
+        font-family: SegoeUIVariable-SemiboldText, 'Segoe UI Variable';
+        font-size: 55.83px;
+        font-variation-settings: 'wght' 600, 'opsz' 10;
+        font-weight: 600;
+      }
+
+      .cls-8, .cls-11, .cls-12 {
+        fill: #15457b;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        fill: #d86ecc;
+        font-size: 27px;
+        letter-spacing: .1em;
+      }
+
+      .cls-9, .cls-10 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-10 {
+        fill: #7bc142;
+      }
+
+      .cls-11, .cls-6 {
+        font-size: 13px;
+      }
+
+      .cls-14 {
+        fill: #78206e;
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        font-family: Arial-ItalicMT, Arial;
+        font-style: italic;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        fill: #0070c0;
+        fill-rule: evenodd;
+        stroke: #0070c0;
+      }
+
+      .cls-17 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-12 {
+        font-size: 15px;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M37.58,421.77c28.02-165.6,56.05-331.2,114.42-338.85,58.37-7.64,126.53,270.07,235.79,292.99,109.26,22.93,352.66-127.97,419.79-155.43"/>
+  <path class="cls-14" d="M24.21,421.04c-.04,2.21,1.92,4.03,4.37,4.06,2.45.04,4.48-1.73,4.52-3.94.04-2.21-1.92-4.03-4.37-4.06-2.45-.04-4.48,1.73-4.52,3.94ZM37.93,18.78L28.5,3.68l-9.96,14.82c-.64.95-.3,2.18.75,2.75,1.05.57,2.42.27,3.05-.68l7.99-11.89-3.84-.06,7.56,12.11c.6.96,1.96,1.3,3.03.76,1.07-.54,1.45-1.76.85-2.72ZM29.95,9.28h-3.47v409.5h3.47V9.28Z"/>
+  <path class="cls-14" d="M28.58,418.77h790.43v4H28.58v-4ZM28.58,424.77c-2.21,0-4-1.79-4-4s1.79-4,4-4,4,1.79,4,4-1.79,4-4,4ZM808.01,412.04l14.96,8.73-14.96,8.73c-.95.56-2.18.23-2.73-.72-.56-.95-.24-2.18.72-2.73l12-7v3.45l-12-7c-.96-.56-1.28-1.78-.72-2.74.56-.95,1.78-1.28,2.73-.72Z"/>
+  <text class="cls-9" transform="translate(312.33 473.77)"><tspan x="0" y="0">Competence</tspan></text>
+  <text class="cls-9" transform="translate(23.16 308.44) rotate(-90)"><tspan x="0" y="0">Confidence</tspan></text>
+  <text class="cls-10" transform="translate(9.78 441.77)"><tspan x="0" y="0">Novice</tspan></text>
+  <text class="cls-10" transform="translate(404.31 440.77)"><tspan class="cls-17" x="0" y="0">A</tspan><tspan x="10.96" y="0">verage</tspan></text>
+  <text class="cls-10" transform="translate(750.72 440.77)"><tspan x="0" y="0">Expert</tspan></text>
+  <path class="cls-3" d="M147.58,84.77c0-2.76,2.24-5,5-5s5,2.24,5,5-2.24,5-5,5-5-2.24-5-5Z"/>
+  <path class="cls-3" d="M252.58,228.77c0-2.76,2.02-5,4.5-5s4.5,2.24,4.5,5-2.02,5-4.5,5-4.5-2.24-4.5-5Z"/>
+  <path class="cls-3" d="M446.58,375.77c0-2.76,2.02-5,4.5-5s4.5,2.24,4.5,5-2.02,5-4.5,5-4.5-2.24-4.5-5Z"/>
+  <path class="cls-3" d="M655.58,296.77c0-2.76,2.24-5,5-5s5,2.24,5,5-2.24,5-5,5-5-2.24-5-5Z"/>
+  <text class="cls-11" transform="translate(128.84 119.77)"><tspan x="0" y="0">Hubris of</tspan></text>
+  <text class="cls-11" transform="translate(113.5 135.77)"><tspan x="0" y="0">i</tspan></text>
+  <text class="cls-11" transform="translate(116.84 135.77)"><tspan x="0" y="0">ncompetence</tspan></text>
+  <text class="cls-11" transform="translate(137 151.77)"><tspan x="0" y="0">o</tspan></text>
+  <text class="cls-11" transform="translate(144.84 151.77)"><tspan x="0" y="0">n the</tspan></text>
+  <text class="cls-11" transform="translate(127.5 167.77)"><tspan x="0" y="0">m</tspan></text>
+  <text class="cls-11" transform="translate(139 167.77)"><tspan x="0" y="0">ountain</tspan></text>
+  <text class="cls-11" transform="translate(116.84 183.77)"><tspan x="0" y="0">of ignorance.</tspan></text>
+  <text class="cls-12" transform="translate(69.21 339.76) rotate(-78.86)"><tspan x="0" y="0">Delusions of grandeur</tspan></text>
+  <text class="cls-7" transform="translate(91.51 388.77)"><tspan x="0" y="0">After</tspan></text>
+  <text class="cls-7" transform="translate(130.68 388.77)"><tspan x="0" y="0">getting</tspan></text>
+  <text class="cls-7" transform="translate(184.85 388.77)"><tspan x="0" y="0">started</tspan></text>
+  <text class="cls-7" transform="translate(87.43 407.77)"><tspan x="0" y="0">the easy stu</tspan><tspan class="cls-16" x="86.27" y="0">f</tspan><tspan x="90.43" y="0">f is eas</tspan><tspan class="cls-4" x="141.12" y="0">y</tspan><tspan x="147.93" y="0">.</tspan></text>
+  <text class="cls-12" transform="translate(191.69 227.77)"><tspan x="0" y="0">Cruelty</tspan></text>
+  <text class="cls-12" transform="translate(184.27 244.77)"><tspan x="0" y="0">of Reality</tspan></text>
+  <text class="cls-12" transform="translate(381 392.53)"><tspan class="cls-4" x="0" y="0">V</tspan><tspan x="8.89" y="0">alley of</tspan></text>
+  <text class="cls-12" transform="translate(382.25 409.53)"><tspan x="0" y="0">Humility</tspan></text>
+  <text class="cls-12" transform="translate(648.07 325.78) rotate(-24.89)"><tspan x="0" y="0">Realistic</tspan></text>
+  <text class="cls-12" transform="translate(632.47 351.78) rotate(-24.89)"><tspan x="0" y="0">self</tspan></text>
+  <text class="cls-12" transform="translate(654.54 341.78) rotate(-24.89)"><tspan x="0" y="0">-</tspan></text>
+  <text class="cls-12" transform="translate(658.47 339.78) rotate(-24.89)"><tspan x="0" y="0">assessment</tspan></text>
+  <text class="cls-6" transform="translate(90.86 40.77)"><tspan x="0" y="0">“What</tspan><tspan class="cls-16" x="34.67" y="0">’</tspan><tspan x="37.32" y="0">s the big deal?</tspan></text>
+  <text class="cls-6" transform="translate(110.53 56.77)"><tspan x="0" y="0">This is so eas</tspan><tspan class="cls-4" x="79.47" y="0">y</tspan><tspan x="85.01" y="0">.</tspan></text>
+  <text class="cls-6" transform="translate(90.62 72.77)"><tspan x="0" y="0">I already know</tspan></text>
+  <text class="cls-6" transform="translate(178.95 72.77)"><tspan x="0" y="0">it</tspan></text>
+  <text class="cls-6" transform="translate(190.45 72.77)"><tspan x="0" y="0">all</tspan></text>
+  <text class="cls-6" transform="translate(205.12 72.77)"><tspan x="0" y="0">!”</tspan></text>
+  <text class="cls-6" transform="translate(272.69 226.77)"><tspan x="0" y="0">“This is a harder</tspan></text>
+  <text class="cls-6" transform="translate(273.19 242.77)"><tspan x="0" y="0">than I thought.”</tspan></text>
+  <text class="cls-6" transform="translate(390.84 358.83) rotate(-11.42)"><tspan x="0" y="0">“I’m finally starting</tspan></text>
+  <text class="cls-6" transform="translate(404.3 372.83) rotate(-11.42)"><tspan x="0" y="0">to understand.”</tspan></text>
+  <text class="cls-8" transform="translate(251.58 47.46)"><tspan x="0" y="0">Dunning-K</tspan><tspan class="cls-15" x="275.13" y="0">r</tspan><tspan class="cls-13" x="296.02" y="0">uger Effect</tspan></text>
+  <text class="cls-5" transform="translate(606.73 293.12) rotate(-24.89)"><tspan x="0" y="0">“</tspan><tspan class="cls-1" x="4.52" y="0">W</tspan><tspan x="15.26" y="0">ow, there is so</tspan><tspan x="5.31" y="14.4">much to learn.”</tspan></text>
+</svg>
